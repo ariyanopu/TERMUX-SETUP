@@ -22,3 +22,8 @@ pkg install python -y
 git clone https://github.com/ariyanopu/TERMUX-SETUP
 cd TERMUX-SETUP
 python termux-setup.py
+```
+
+
+![Screenshot 1](https://raw.githubusercontent.com/ariyanopu/TERMUX-SETUP/master/screenshots/screen1.jpg)
+![Screenshot 2](https://raw.githubusercontent.com/ariyanopu/TERMUX-SETUP/master/screenshots/screen2.jpg)
